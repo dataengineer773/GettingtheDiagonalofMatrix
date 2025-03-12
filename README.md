@@ -1,0 +1,1 @@
+We need to get the diagonal elements of a matrixThe solution is Use diagonal, NumPy makes getting the diagonal elements of a matrix easy with diagonal. It is also possible to get a diagonal off from the main diagonal by using the offset parameter.
